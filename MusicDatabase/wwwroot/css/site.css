@@ -19,4 +19,22 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: purple;
+  height: 100%;
+}
+
+.container {
+    background-color: white;
+}
+
+.row {
+    background-color: pink;
+    border: dashed;
+    border-color: blue;
+}
+
+[class*="col"] {
+    border: black solid 1px;
+    background-color: rgb(100, 0, 228);
+    color: rgb(255, 255, 255);
 }
