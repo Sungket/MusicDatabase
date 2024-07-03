@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tMJf/u7yKM/HZaP/9/5ighlMJOpB1FLiSaAzzhjs3VxiSHaRBGa557ubWI6I1KRbVgEHBPdxlhC3WwNY8DioSQ==",
+  "dgSpecHash": "otuiGAwGa/IXxXwOOFbikj8r82wpFTj9YmkVa3bA8G5t+6m2tuk1Txb5DonVMubolLn1O/JZh5W/YwNS4Ufigg==",
   "success": true,
   "projectFilePath": "/Users/sungketpatel/Projects/MusicDatabase/MusicDatabase/MusicDatabase.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sungketpatel/.nuget/packages/fontawesome/4.7.0/fontawesome.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

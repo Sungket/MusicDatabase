@@ -12,4 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/sungketpatel/.nuget/packages/" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFontAwesome Condition=" '$(PkgFontAwesome)' == '' ">/Users/sungketpatel/.nuget/packages/fontawesome/4.7.0</PkgFontAwesome>
+  </PropertyGroup>
 </Project>
